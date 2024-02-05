@@ -27,7 +27,7 @@ sLength = length / 4
 sArea = sLength * sLength
 print("Area for square fence with given length is: ", sArea)
 
-#calculates the radius of the circle from the fence length/circumfrence (uses math.pi for pis)
+#calculates the radius of the circle from the fence length/circumfrence (uses math.pi for pi)
 #calculates the area from the radius
 radius = length / math.pi / 2
 cArea = round(radius * radius * math.pi, 2)
