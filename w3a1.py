@@ -1,8 +1,8 @@
 import math
 
-#set the length for the fence. tSide is the side
+#set the length for the fence with user input. tSide is the side
 #length for an equilateral triangle.
-length = 100
+length = float(input("\nPlease enter the length of your fence.\n"))
 print("\nLength is", length)
 tSide = length / 3
 
