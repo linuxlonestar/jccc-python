@@ -1,4 +1,6 @@
+# Generated using microsoft copilot
 #Great! You can replace `"data.csv"` in the previous Python program with the path to your actual CSV file. Here's the updated code:
+
 
 
 class Node:
@@ -39,7 +41,7 @@ def create_linked_list(file_name):
             linked_list.insert(row[0], row[1])
     return linked_list
 
-file_name = r"C:\Users\owenr\Downloads\data.csv"
+file_name = r"data.csv"
 linked_list = create_linked_list(file_name)
 
 country = input("Enter a country: ")
