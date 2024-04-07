@@ -1,0 +1,8 @@
+Id	Fname	Lname	School id	School name	uGrad/Grad	Year	Student Loan
+102	Bill1	Moran1	3	Rockhurst	uGrad	4	Yes
+97	Bill3	Moran3	3	Rockhurst	Grad	2	No
+133	Bill4	Moran4	3	Rockhurst	uGrad	1	Yes
+64	Bill5	Moran5	3	Rockhurst	uGrad	2	No
+185	Bill8	Moran8	3	Rockhurst	Grad	4	No
+159	Bill10	Moran10	3	Rockhurst	uGrad	4	Yes
+66	Bill11	Moran11	3	Rockhurst	uGrad	2	Yes

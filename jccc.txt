@@ -1,0 +1,2 @@
+Id	Fname	Lname	School id	School name	uGrad/Grad	Year	Student Loan
+189	Bill2	Moran2	2	JCCC	Grad	2	No

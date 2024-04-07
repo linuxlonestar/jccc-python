@@ -1,0 +1,13 @@
+Id	Fname	Lname	School id	School name	uGrad/Grad	Year	Student Loan
+102	Bill1	Moran1	3	Rockhurst	uGrad	4	Yes
+189	Bill2	Moran2	2	JCCC	Grad	2	No
+97	Bill3	Moran3	3	Rockhurst	Grad	2	No
+133	Bill4	Moran4	3	Rockhurst	uGrad	1	Yes
+64	Bill5	Moran5	3	Rockhurst	uGrad	2	No
+16	Bill6	Moran6	1	Avila	Grad	3	Yes
+220	Bill7	Moran7	1	Avila	uGrad	2	No
+185	Bill8	Moran8	3	Rockhurst	Grad	4	No
+166	Bill9	Moran9	1	Avila	uGrad	3	Yes
+159	Bill10	Moran10	3	Rockhurst	uGrad	4	Yes
+66	Bill11	Moran11	3	Rockhurst	uGrad	2	Yes
+202	Bill12	Moran12	1	Avila	uGrad	1	No

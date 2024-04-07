@@ -1,0 +1,5 @@
+Id	Fname	Lname	School id	School name	uGrad/Grad	Year	Student Loan
+16	Bill6	Moran6	1	Avila	Grad	3	Yes
+220	Bill7	Moran7	1	Avila	uGrad	2	No
+166	Bill9	Moran9	1	Avila	uGrad	3	Yes
+202	Bill12	Moran12	1	Avila	uGrad	1	No
