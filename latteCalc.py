@@ -11,6 +11,7 @@ canadian = 0.73
 convertFrom = baseUSD
 convertTo = baseUSD
 
+ui.dark_mode()
 ui.label('Latte Calculator').style("font-size: 400%")
 cost = ui.input("enter amount here")
 ui.label("Convert From:").style("font-size: 150%")
@@ -51,6 +52,8 @@ def convert():
 
 
 convertBut = ui.button('convert', on_click=lambda: convert())
+
+
 ui.label("Output:").style("font-size: 200%")
 
 ui.run()
